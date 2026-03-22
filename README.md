@@ -31,4 +31,4 @@ Um jogo simples de encontrar pares de cartas iguais, feito com HTML, CSS e JavaS
 ---
 
 ## 👨‍💻 Desenvolvido por
-**Israel Silva**
+**Israel Alcantara**
